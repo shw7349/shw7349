@@ -8,6 +8,7 @@
 
 - Song Hyun Woo
 - https://shw7349.github.io/resume/
+- https://shw7349.tistory.com/
 - shw7349@naver.com
 
 ## 🔨 Technology Stacks
