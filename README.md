@@ -20,9 +20,4 @@
 ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-%2300f.svg?&style=flat&logo=oracle&logoColor=red)
 
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shw7349&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shw7349)](https://github.com/anuraghazra/github-readme-stats)
