@@ -22,4 +22,5 @@
 ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-%2300f.svg?&style=flat&logo=oracle&logoColor=red)
 
-[![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shw7349)]()
+![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shw7349&theme=dark&show_icons=true)
+
