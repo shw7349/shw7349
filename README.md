@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&textHyunwooProfile%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HyunwooProfile%20&fontSize=90)
 
 ### 매일매일 성장을 원하는 개발자
 
