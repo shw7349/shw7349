@@ -20,9 +20,14 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%230095D5.svg?style=flat&logo=gradle&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E)
-![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) 
+![VueJs](https://img.shields.io/badge/Vuejs%20-%23323330.svg?&style=flat&logo=Vuejs&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
+![Mybatis](https://img.shields.io/badge/Mybatis-%2300f.svg?&style=flat&logo=Mybatis&logoColor=red)
 ![Oracle](https://img.shields.io/badge/Oracle-%2300f.svg?&style=flat&logo=oracle&logoColor=red)
 ![Mysql](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=red)
+![MariaDB](https://img.shields.io/badge/MariaDB-%2300f.svg?&style=flat&logo=MariaDB&logoColor=red)
+![Python](https://img.shields.io/badge/Python-%2300f.svg?&style=flat&logo=Python&logoColor=blue)
+
 
 ![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shw7349&theme=transparent&show_icons=true)
 
