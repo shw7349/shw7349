@@ -30,4 +30,4 @@
 
 
 ![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shw7349&theme=transparent&show_icons=true)
-
+![Hyunwoo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shw7349&layout=compact&theme=transparent)
