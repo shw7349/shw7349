@@ -27,6 +27,3 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-%2300f.svg?&style=flat&logo=MariaDB&logoColor=red)
 ![Python](https://img.shields.io/badge/Python-%2300f.svg?&style=flat&logo=Python&logoColor=blue)
 
-
-![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shw7349&theme=transparent&show_icons=true)
-![Hyunwoo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shw7349&layout=compact&theme=transparent)
