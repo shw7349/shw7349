@@ -30,4 +30,4 @@
 
 
 ## Study Project
-투표서비스 + Kotlin + SpringBoot + DDD : https://github.com/shw7349/VoteProject
+- 투표서비스 + Kotlin + SpringBoot + DDD : https://github.com/shw7349/VoteProject
