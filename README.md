@@ -5,3 +5,4 @@
 
 ## Study Project
 - 투표서비스 + Kotlin + SpringBoot + DDD : https://github.com/shw7349/VoteProject
+- 자동화 키워드 등록 페이지 + TypeScript + Node.js + claude : https://github.com/shw7349/Infocraft
