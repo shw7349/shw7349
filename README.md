@@ -59,13 +59,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shw7349&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shw7349&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</p>
-
----
-
 <p align="center"><sub>매일 성장하고 성공을 꿈꾸는 개발자 · Seoul</sub></p>
