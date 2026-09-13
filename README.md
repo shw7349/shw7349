@@ -55,7 +55,6 @@
 | [**paymentProject**](https://github.com/shw7349/paymentProject) | Redis 분산 락 동시성 제어 · Kafka 비동기 승인 · DB Unique 최종 검증을 결합한 결제 정합성 학습 | `Kotlin` `Spring Boot` `Redis` `Kafka` |
 | [**kafkaProject**](https://github.com/shw7349/kafkaProject) | Docker로 Kafka(KRaft) + Kafka UI를 띄우고 프로듀서/컨슈머로 이벤트 파이프라인 실습 | `Kotlin` `Kafka` `Docker` |
 | [**VoteProject**](https://github.com/shw7349/VoteProject) | DDD 스타일로 Aggregate 중심 모델링과 계층별 책임 분리를 연습한 투표/설문 시스템 | `Kotlin` `Spring Boot` `JPA` |
-| [**imweb-shw7349**](https://github.com/shw7349/imweb-shw7349) | 재고 관리 및 결제 API 과제 — JWT 인증, 동시성 제어를 고려한 설계 | `Java 21` `Spring Boot` `PostgreSQL` |
 | [**CSStudy**](https://github.com/shw7349/CSStudy) | 자료구조·알고리즘·OS·네트워크·DB 600+ 문제 CS 면접 대비 문제은행 | `Docs` |
 
 ---
